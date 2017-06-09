@@ -4,9 +4,9 @@ Cooldown Count for Everything<br>
 <img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
 <br>
 # Atlas + AtlasLoot (v1.21.01)+ AtlasQuest (v.3.15.33)
-Instance map browser
-Shows the possible loot from the bosses
-Zeigt die Quests, die es fü\195\188r die jeweiligen Instanzen gibt
+Instance map browser<br>
+Shows the possible loot from the bosses<br>
+Zeigt die Quests, die es fü\195\188r die jeweiligen Instanzen gibt<br>
 <img src="https://image.ibb.co/eyXJoF/atlas1.jpg" width="300"/>
 <br>
 # Auctioneer
