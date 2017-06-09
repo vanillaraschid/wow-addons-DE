@@ -1,5 +1,5 @@
-## wow-addons-DE<br>
-#Omni Cooldown Count<br>
+### wow-addons-DE<br>
+##Omni Cooldown Count<br>
 Cooldown Count for Everything
 <img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
 
