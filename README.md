@@ -1,6 +1,7 @@
 ## wow-addons-DE<br>
-## Omni Cooldown Count<img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
+## Omni Cooldown Count
 Cooldown Count for Everything
+<img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
 <br>
 
 #Atlas
