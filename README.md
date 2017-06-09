@@ -1,12 +1,11 @@
-## wow-addons-DE<br>
+### wow-addons-DE<br>
 ## Omni Cooldown Count
 Cooldown Count for Everything<br>
 <img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
 <br>
-
-#Atlas
+## Atlas
+Instance map browser<br>
 <img src="https://image.ibb.co/eyXJoF/atlas1.jpg" width="300"/>
-Instance map browser
 #AtlasLoot 1.21.01
 Shows the possible loot from the bosses
 #AtlasQuest v 3.15.33
