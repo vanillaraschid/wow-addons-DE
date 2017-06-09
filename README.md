@@ -6,7 +6,7 @@ Cooldown Count for Everything<br>
 # Atlas + AtlasLoot (v1.21.01)+ AtlasQuest (v.3.15.33)
 Instance map browser<br>
 Shows the possible loot from the bosses<br>
-Zeigt die Quests, die es fü\195\188r die jeweiligen Instanzen gibt<br>
+Zeigt die Quests, die es für die jeweiligen Instanzen gibt<br>
 <img src="https://image.ibb.co/eyXJoF/atlas1.jpg" width="300"/>
 <br>
 # Auctioneer
@@ -16,8 +16,8 @@ Displays the zone level range of the zone you are in and also gives you a sugges
 # Natur ECB 5.4.8
 Shows a replication of your targets cast bar, RaidBossCooldowns and Debuff-Timers like 'Sap', 'Burning Adrenaline' etc.
 # CT_MailMod 1.44
+Allows you to send multiple mails to the same person<br>
 <img src="https://image.ibb.co/g3XJoF/ct_mailmod1.jpg" width="300"/> <img src="https://image.ibb.co/mz4nha/ct_mailmod2.jpg" width="300"/>
-Allows you to send multiple mails to the same person
 # Cartographer 2.0
 Addon to manipulate the map
 <img src="https://image.ibb.co/nJXJoF/tinytip2.jpg"/>
