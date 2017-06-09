@@ -1,15 +1,16 @@
-### wow-addons-DE<br>
+## wow-addons-DE<br>
 ## Omni Cooldown Count
 Cooldown Count for Everything<br>
 <img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
 <br>
 ## Atlas
 Instance map browser<br>
-<img src="https://image.ibb.co/eyXJoF/atlas1.jpg" width="300"/>
-#AtlasLoot 1.21.01
+# AtlasLoot 1.21.01
 Shows the possible loot from the bosses
-#AtlasQuest v 3.15.33
+# AtlasQuest v 3.15.33
 Zeigt die Quests, die es fü\195\188r die jeweiligen Instanzen gibt
+<br>
+<img src="https://image.ibb.co/eyXJoF/atlas1.jpg" width="300"/>
 #Auctioneer
  Displays item info and analyzes auction data. Use "/auctioneer scan" at AH to collect auction data. [3.9.0.1063 (Kangaroo)]
 #Bhaldie Recommend Level v2.0
