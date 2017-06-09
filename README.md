@@ -1,6 +1,6 @@
 ## wow-addons-DE<br>
 ## Omni Cooldown Count
-Cooldown Count for Everything
+Cooldown Count for Everything<br>
 <img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
 <br>
 
