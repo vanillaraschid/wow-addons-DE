@@ -43,7 +43,7 @@ Eine Tasche um sie alle zu beherrschen, und in der Dunkelheit zu binden.<br>
 <img src="https://image.ibb.co/hobpvv/onebag.jpg" width="300"/>
 ## RangeColor
 Change the icon color when out of range, no mana, etc. Use << /rc >> or << /rangecolor >> for the options menu.<br>
-[url=https://imgbb.com/][img]https://thumb.ibb.co/mzAhHa/rangecolor.jpg[/img][/url]
+<a href="https://imgbb.com/"><img src="https://thumb.ibb.co/mzAhHa/rangecolor.jpg" alt="rangecolor" border="0" /></a>
 ## ScrollingCombatText (sct) v5.0 + sct_options + sctd v2.0 + sctd_options
 Adds Scrolling Combat Text above your character<br>
 <img src="https://image.ibb.co/hw54TF/sct1.jpg" width="300"/>
