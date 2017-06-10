@@ -34,6 +34,7 @@ Ermöglicht es beliebige Gegenstände mit deiner momentanen Ausrüstung zu vergl
 <img src="https://image.ibb.co/nFS7ha/equipcompare.jpg" width="300"/>
 ## FilterKnown v1.3
 färbt die Rezepte im Auktionshaus ein, wenn diese schon bekannt sind<br>
+<img src="https://image.ibb.co/cAf7YF/alreadyknown.jpg" width="300"/>
 ## Informant v3.9.0.1000
 benötigt: EnhTooltip, Stubby<br>
 zeigt im Tooltip erweiterte Informationen an (z.B. Verkaufspreis beim Händler)<br>
