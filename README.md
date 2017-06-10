@@ -15,10 +15,10 @@ zeigt zusätzliche Informationen im Auktionshaus an (erleichtert das Verkaufen v
 Mit "/auctioneer scan" im AH starten oder im AH-Fenster links die Felder "anhaken" und unten "Scan" drücken.<br>
  <img src="https://image.ibb.co/eNSUvv/auctioneer.jpg" width="300"/>
 ## Bhaldie Recommend Level v2.0
-Zeigt das Zonenlevel an (von bis) und schlägt Zonen vor entsprechend dem aktuellen Level<br>
+Zeigt das Gebietslevel an (von bis) und schlägt Gebiete vor, entsprechend dem aktuellen Level<br>
 <img src="https://image.ibb.co/e9NjVv/bmreclevel1.jpg" width="300"/>
 ## Natur ECB 5.4.8 + CECB_Options
-Zeigt eine Castbar für das ausgewählte Ziel, Bosse und DebuffTimer.<br>
+Zeigt eine Castbar für das ausgewählte Ziel, Bosse und DebuffTimer an.<br>
 Darin sieht man den Castfortschritt und was gecastet wird.<br>
 ## CT_MailMod 1.44
 Verbesserter Briefkasten (z.B. mehrere Mails an eine Person)<br>
@@ -28,9 +28,9 @@ zusätzliche Funktionen für die Weltkarten (z.B. Instanzen, Notizen, Fog of War
 <img src="https://image.ibb.co/mWiDOF/cartographer02.jpg" width="300"/><img src="https://image.ibb.co/ctnJqv/cartographer01.jpg" width="300"/><img src="https://image.ibb.co/cxQ4Vv/cartographer03.jpg" width="300"/><img src="https://image.ibb.co/i6FhHa/cartographer04.jpg" width="300"/>
 ##  Classic Snowfall v0.4
 Im Normalfall werden Skills in der Actionbar beim Drücken des Hotkeys erst beim Loslassen des Hotkeys ausgeführt.<br>
-Dieses Addon ändert dies, das diese schon beim Drücken des Hotkeys ausgeführt werden<br>
+Dieses Addon ändert dies, dass diese schon beim Drücken des Hotkeys ausgeführt werden<br>
 ## EquipCompare v2.9.8
-Ermöglicht es beliebige Gegenstände mit deiner momentanen Ausrüstung zu vergleichen (nützlich bei Questbelohnungen<br>
+Ermöglicht es beliebige Gegenstände mit deiner momentanen Ausrüstung zu vergleichen (nützlich bei Auswahl von Questbelohnungen)<br>
 <img src="https://image.ibb.co/nFS7ha/equipcompare.jpg" width="300"/>
 ## FilterKnown v1.3
 färbt die Rezepte im Auktionshaus ein, wenn diese schon bekannt sind<br>
@@ -49,11 +49,11 @@ das ganze Inventar als ein großer Rucksack dargestellt<br>
 <img src="https://image.ibb.co/hobpvv/onebag.jpg" width="300"/>
 ## RangeColor
 Ändert die Farbe der Skills/Spells in der Actionbar wenn außer Reichweite und/oder kein Mana etc.<br>
-Optionsmenü mite << /rc >> oder << /rangecolor >> aufrufen.<br>
+Optionsmenü mit << /rc >> oder << /rangecolor >> aufrufen.<br>
 <img src="https://image.ibb.co/kMatOF/rangecolor.jpg"/>
 ## ScrollingCombatText (sct) v5.0 + sct_options + sctd v2.0 + sctd_options
 Stellt eigenen Schaden und erlittenen Schaden als "aufpoppende" Zahlen dar<br>
-Unbedingt in den Einstellungen den Combateintritt auswählen (sehr hilfreich!)<br>
+Unbedingt in den Einstellungen den Kampfeintritt auswählen (sehr hilfreich!)<br>
 <img src="https://image.ibb.co/hw54TF/sct1.jpg" width="300"/>
 ## ShaguQuest + ShaguDB 7.2-deDE
 benötigt: Cartographer<br>
