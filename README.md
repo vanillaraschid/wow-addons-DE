@@ -24,8 +24,6 @@ Allows you to send multiple mails to the same person<br>
 Addon to manipulate the map<br>
 ##  Classic Snowfall v0.4
 Keydown Cast Support for Vanilla<br>
-## EquipColor v1.0
-Gives a red overlay to unequippable and unlearnable items and colors already known recipes blue-green. Works with Bagnon and OneBag.<br>
 ## EquipCompare v2.9.8
 Ermöglicht es beliebige Gegenstände mit deiner momentanen Ausrüstung zu vergleichen<br>
 <img src="https://image.ibb.co/nFS7ha/equipcompare.jpg" width="300"/>
