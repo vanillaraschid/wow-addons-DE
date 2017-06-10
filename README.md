@@ -23,6 +23,7 @@ Allows you to send multiple mails to the same person<br>
 <img src="https://image.ibb.co/g3XJoF/ct_mailmod1.jpg" width="300"/> <img src="https://image.ibb.co/mz4nha/ct_mailmod2.jpg" width="300"/>
 ## Cartographer 2.0
 Addon to manipulate the map<br>
+<img src="https://image.ibb.co/mWiDOF/cartographer02.jpg" width="300"/><img src="https://image.ibb.co/ctnJqv/cartographer01.jpg" width="300"/><img src="https://image.ibb.co/cxQ4Vv/cartographer03.jpg" width="300"/><img src="https://image.ibb.co/i6FhHa/cartographer04.jpg" width="300"/>
 ##  Classic Snowfall v0.4
 Keydown Cast Support for Vanilla<br>
 ## EquipCompare v2.9.8
