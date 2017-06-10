@@ -58,8 +58,8 @@ Unbedingt in den Einstellungen den Kampfeintritt auswählen (sehr hilfreich!)<br
 ## ShaguQuest + ShaguDB 7.2-deDE
 benötigt: Cartographer<br>
 eine Questhilfe (schlechter als Questie, dieser geht jedoch nicht im deutschen Client)
-mit dabei der EQL3(Extended QuestLog: beliebig viele Quest gleichzeitig verfolgen, standard ist max. 5;Questlevel etc.)<br>
-mit ShaguQuest kann man sich bei der Quest auf der Karte die Punkte der Questmobs/items anzeigen lassen.<br>
+mit dabei der EQL3(Extended QuestLog: beliebig viele Quests gleichzeitig verfolgen, standard ist max. 5;Questlevel etc.)<br>
+mit ShaguQuest kann man sich bei der Quest auf der Karte die Punkte der Questmobs/Items anzeigen lassen.<br>
 <img src="https://image.ibb.co/eOJPTF/shaguquest1.jpg" width="300"/>
 ## TinyTip + TinyTipExtras + TinyTipOptions
 Verbesserte Anzeige der Tooltips: am Mauszeiger beim rüberfahren, farbiger Hintergrund (Klasse, Feind = rot etc.), viel mehr Informationen und alles selbst nach seinen Wünschen einstellbar<br>
