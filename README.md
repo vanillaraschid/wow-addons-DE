@@ -14,7 +14,8 @@ Dependencies: EnhTooltip, Stubby<br>
  Displays item info and analyzes auction data. Use "/auctioneer scan" at AH to collect auction data.<br>
  <img src="https://image.ibb.co/eNSUvv/auctioneer.jpg" width="300"/>
 ## Bhaldie Recommend Level v2.0
-Displays the zone level range of the zone you are in and also gives you a suggested zone to be in
+Displays the zone level range of the zone you are in and also gives you a suggested zone to be in<br>
+<img src="https://image.ibb.co/e9NjVv/bmreclevel1.jpg" width="300"/>
 ## Natur ECB 5.4.8 + CECB_Options
 Shows a replication of your targets cast bar, RaidBossCooldowns and Debuff-Timers like 'Sap', 'Burning Adrenaline' etc.
 ## CT_MailMod 1.44
