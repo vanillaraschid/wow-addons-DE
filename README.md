@@ -8,14 +8,14 @@ Befehl:/omnicc<br>
 Instanzkarten-Browser<br>
 zeigt den möglichen Loot von Bossen an mit Dropchance<br>
 Zeigt die Quests an, die es für die jeweilige Instanz gibt<br>
-Befehl:/atlas<br>
+Befehl:*/atlas*<br>
 <img src="https://image.ibb.co/eyXJoF/atlas1.jpg" width="300"/>
 <br>
 ## Auctioneer v3.9.0.1063
 benötigt: EnhTooltip, Stubby<br>
 zeigt zusätzliche Informationen im Auktionshaus an (erleichtert das Verkaufen von Items im AH).<br>
 Mit "/auctioneer scan" im AH starten oder im AH-Fenster links die Felder "anhaken" und unten "Scan" drücken.<br>
-Befehl:/auctioneer<br>
+Befehl:*/auctioneer*<br>
 für immer an auf dem char:/auctioneer load always<br>
  <img src="https://image.ibb.co/eNSUvv/auctioneer.jpg" width="300"/>
 ## Bhaldie Recommend Level v2.0
