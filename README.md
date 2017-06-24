@@ -1,7 +1,7 @@
 # wow-addons-DE<br>
 ## Omni Cooldown Count
 Cooldownanzeige für die Actionbars<br>
-Befehl:/*omnicc<br>
+Befehl:/*omnicc*<br>
 <img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
 <br>
 ## Atlas + AtlasLoot (v1.21.01)+ AtlasQuest (v.3.15.33)
