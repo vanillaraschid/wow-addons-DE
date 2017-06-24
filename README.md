@@ -1,18 +1,22 @@
 # wow-addons-DE<br>
 ## Omni Cooldown Count
 Cooldownanzeige für die Actionbars<br>
+Befehl:/omnicc<br>
 <img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
 <br>
 ## Atlas + AtlasLoot (v1.21.01)+ AtlasQuest (v.3.15.33)
 Instanzkarten-Browser<br>
 zeigt den möglichen Loot von Bossen an mit Dropchance<br>
 Zeigt die Quests an, die es für die jeweilige Instanz gibt<br>
+Befehl:/atlas<br>
 <img src="https://image.ibb.co/eyXJoF/atlas1.jpg" width="300"/>
 <br>
 ## Auctioneer v3.9.0.1063
 benötigt: EnhTooltip, Stubby<br>
 zeigt zusätzliche Informationen im Auktionshaus an (erleichtert das Verkaufen von Items im AH).<br>
 Mit "/auctioneer scan" im AH starten oder im AH-Fenster links die Felder "anhaken" und unten "Scan" drücken.<br>
+Befehl:/auctioneer<br>
+für immer an auf dem char:/auctioneer load always<br>
  <img src="https://image.ibb.co/eNSUvv/auctioneer.jpg" width="300"/>
 ## Bhaldie Recommend Level v2.0
 Zeigt das Gebietslevel an (von bis) und schlägt Gebiete vor, entsprechend dem aktuellen Level<br>
@@ -20,6 +24,7 @@ Zeigt das Gebietslevel an (von bis) und schlägt Gebiete vor, entsprechend dem a
 ## Natur ECB 5.4.8 + CECB_Options
 Zeigt eine Castbar für das ausgewählte Ziel, Bosse und DebuffTimer an.<br>
 Darin sieht man den Castfortschritt und was gecastet wird.<br>
+Befehl:/necb<br>
 ## CT_MailMod 1.44
 Verbesserter Briefkasten (z.B. mehrere Mails an eine Person)<br>
 <img src="https://image.ibb.co/g3XJoF/ct_mailmod1.jpg" width="300"/> <img src="https://image.ibb.co/mz4nha/ct_mailmod2.jpg" width="300"/>
@@ -34,19 +39,24 @@ Ermöglicht es beliebige Gegenstände mit deiner momentanen Ausrüstung zu vergl
 <img src="https://image.ibb.co/nFS7ha/equipcompare.jpg" width="300"/>
 ## FilterKnown v1.3
 färbt die Rezepte im Auktionshaus ein, wenn diese schon bekannt sind<br>
+Befehl:/fk<br>
 <img src="https://image.ibb.co/cAf7YF/alreadyknown.jpg" width="300"/>
 ## Informant v3.9.0.1000
 benötigt: EnhTooltip, Stubby<br>
 zeigt im Tooltip erweiterte Informationen an (z.B. Verkaufspreis beim Händler)<br>
+Befehl:/informant<br>
 <img src="https://image.ibb.co/giUbav/informant.jpg" width="300"/>
 ## MobHealth v3.2 + MobHealth3_BlizzardFrames
 Schätzt die HP des Gegners ab (min. 10% Schaden zugefügt) und merkt sich diese<br>
+Befehl:/mobhealth3<br>
 ## MoveAnything
 Mit diesem Addon lässt sich alles frei auf dem Bildschirm anordnen(Spielerprofil, Ziel etc.)<br>
 <img src="https://image.ibb.co/nok4TF/moveanything.jpg" width="300"/>
 ## Onebag v2.0 + OneBank + OneRing + OneView
 Eine Tasche um sie alle zu beherrschen, und in der Dunkelheit zu binden.<br>
 das ganze Inventar als ein großer Rucksack dargestellt<br>
+Befehl onebag:/ob<br>
+Befehl oneview:/ov<br>
 <img src="https://image.ibb.co/hobpvv/onebag.jpg" width="300"/>
 ## RangeColor
 Ändert die Farbe der Skills/Spells in der Actionbar wenn außer Reichweite und/oder kein Mana etc.<br>
