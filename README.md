@@ -36,6 +36,7 @@ Im Normalfall werden Skills in der Actionbar beim Drücken des Hotkeys erst beim
 Dieses Addon ändert dies, dass diese schon beim Drücken des Hotkeys ausgeführt werden<br>
 ## EquipCompare v2.9.8
 Ermöglicht es beliebige Gegenstände mit deiner momentanen Ausrüstung zu vergleichen (nützlich bei Auswahl von Questbelohnungen)<br>
+Befehl (an/aus):/equipcompare<br>
 <img src="https://image.ibb.co/nFS7ha/equipcompare.jpg" width="300"/>
 ## FilterKnown v1.3
 färbt die Rezepte im Auktionshaus ein, wenn diese schon bekannt sind<br>
@@ -56,15 +57,18 @@ Mit diesem Addon lässt sich alles frei auf dem Bildschirm anordnen(Spielerprofi
 Eine Tasche um sie alle zu beherrschen, und in der Dunkelheit zu binden.<br>
 das ganze Inventar als ein großer Rucksack dargestellt<br>
 Befehl onebag:/ob<br>
+Befehl (benutzbar nach dem ersten Mal Bankfach öffnen):/onebank<br>
 Befehl oneview:/ov<br>
 <img src="https://image.ibb.co/hobpvv/onebag.jpg" width="300"/>
 ## RangeColor
 Ändert die Farbe der Skills/Spells in der Actionbar wenn außer Reichweite und/oder kein Mana etc.<br>
 Optionsmenü mit << /rc >> oder << /rangecolor >> aufrufen.<br>
+Befehl:/rangecolor<br>
 <img src="https://image.ibb.co/kMatOF/rangecolor.jpg"/>
 ## ScrollingCombatText (sct) v5.0 + sct_options + sctd v2.0 + sctd_options
 Stellt eigenen Schaden und erlittenen Schaden als "aufpoppende" Zahlen dar<br>
 Unbedingt in den Einstellungen den Kampfeintritt auswählen (sehr hilfreich!)<br>
+Befehl:/sct menu<br>
 <img src="https://image.ibb.co/hw54TF/sct1.jpg" width="300"/>
 ## ShaguQuest + ShaguDB 7.2-deDE
 benötigt: Cartographer<br>
@@ -74,6 +78,7 @@ mit ShaguQuest kann man sich bei der Quest auf der Karte die Punkte der Questmob
 <img src="https://image.ibb.co/eOJPTF/shaguquest1.jpg" width="300"/>
 ## TinyTip + TinyTipExtras + TinyTipOptions
 Verbesserte Anzeige der Tooltips: am Mauszeiger beim rüberfahren, farbiger Hintergrund (Klasse, Feind = rot etc.), viel mehr Informationen und alles selbst nach seinen Wünschen einstellbar<br>
+Befehl:/ttip<br>
 <img src="https://image.ibb.co/nFkSha/tinytip1.jpg" width="300"/><img src="https://image.ibb.co/nJXJoF/tinytip2.jpg"/>
 ## vQueue 1.2.6
 Tool für besseres Gruppen finden<br>
